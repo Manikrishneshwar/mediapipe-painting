@@ -1,2 +1,2 @@
 # mediapipe-painting
-Using mediapipe frame to create a basic project of drawing with your hands
+Using mediapipe framework to create a basic project of drawing with your hands
